@@ -1,0 +1,5 @@
+{"consulta":[{"id":1,"nome":"Top 10 ISS por Prestador 2016","datamart":"NFSE","arquivo":"./dadosJson/nfse_top10_prestador_soma_iss.json"},
+{"id":2,"nome":"Top 10 ISS por Tomador 2016","datamart":"NFSE","arquivo":"./dadosJson/nfse_top10_tomador_soma_iss.json"},
+{"id":3,"nome":"Top ISS por Competencia 2016","datamart":"NFSE","arquivo":"./dadosJson/nfse_top10_mesano_competencia_soma_iss.json"},
+{"id":4,"nome":"Top 10 ISS por Municipio Tributação 2016","datamart":"NFSE","arquivo":"./dadosJson/nfse_top10_tributacao_municipio_soma_iss.json"}]}
+
